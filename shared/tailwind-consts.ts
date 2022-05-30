@@ -1,0 +1,1 @@
+export const textBoxStyle = 'border border-black border-solid';
